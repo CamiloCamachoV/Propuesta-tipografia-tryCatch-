@@ -18,7 +18,7 @@ El objetivo de esta propuesta es proporcionar a TryCatch una selección de fuent
 
 En este repositorio, encontrarás una lista de las fuentes tipográficas recomendadas junto con ejemplos de su uso en diferentes contextos. También proporcionamos instrucciones sobre cómo integrar estas fuentes en los proyectos de TryCatch, así como sugerencias para su aplicación en diversas plataformas y medios.
 
-Para acceder al documento completo de la propuesta, haz clic [aquí](.../Style Guide- TryCatch - CamiloCamacho.pdf).
+Para acceder al documento completo de la propuesta, haz clic [aquí](https://github.com/cama0047/Propuesta-tipografia-tryCatch-/blob/main/Style%20Guide-%20TryCatch%20-%20CamiloCamacho.pdf).
 
 Esperamos que esta propuesta de tipografía contribuya a fortalecer la identidad visual de TryCatch y a mejorar la experiencia de sus usuarios. ¡Gracias por considerar nuestras recomendaciones!
 
